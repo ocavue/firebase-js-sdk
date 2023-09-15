@@ -3484,7 +3484,12 @@
   resolved "https://registry.npmjs.org/@types/node/-/node-10.17.13.tgz#ccebcdb990bd6139cd16e84c39dc2fb1023ca90c"
   integrity sha512-pMCcqU2zT4TjqYFrWtYHKal7Sl30Ims6ulZ4UFXxI4xbtQqK/qqKwkDoBFCfooRqqmRu9vY3xaJRwxSh673aYg==
 
-"@types/node@12.20.50", "@types/node@^12.7.1":
+"@types/node@18.17.16":
+  version "18.17.16"
+  resolved "https://registry.npmjs.org/@types/node/-/node-18.17.16.tgz#ee7b103d102787fb1530bfc6d4a1e15014f10938"
+  integrity sha512-e0zgs7qe1XH/X3KEPnldfkD07LH9O1B9T31U8qoO7lqGSjj3/IrBuvqMeJ1aYejXRK3KOphIUDw6pLIplEW17A==
+
+"@types/node@^12.7.1":
   version "12.20.50"
   resolved "https://registry.npmjs.org/@types/node/-/node-12.20.50.tgz#14ba5198f1754ffd0472a2f84ab433b45ee0b65e"
   integrity sha512-+9axpWx2b2JCVovr7Ilgt96uc6C1zBKOQMpGtRbWT9IoR/8ue32GGMfGA4woP8QyP2gBs6GQWEVM3tCybGCxDA==
